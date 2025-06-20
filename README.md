@@ -43,6 +43,6 @@ Empieza a caminar para probar la detección de actividad.
 
 Puedes agregar lógica para enviar notificaciones basadas en actividades específicas.
 
-##Conclusión:
+## Conclusión:
 Este proyecto de ejemplo demuestra cómo usar Core Motion para rastrear la actividad física. La aplicación proporciona el tipo de actividad actual, lo que la hace ideal para aplicaciones relacionadas con el fitness o la salud. Puedes expandir este proyecto integrando datos de salud a través de HealthKit o añadiendo las notificaciones para actividades específicas.
 
